@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GitHub/ChaosPhysicsBugTest/Content/DebugPhysicsAsset/DebugPhysicsAsset.uasset",
+				"E:/GitHub/ChaosPhysicsBugTest/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"E:/GitHub/ChaosPhysicsBugTest/Content/DebugPhysicsAsset/DebugPhysicsAsset_PhysicsAsset.uasset",
+				"E:/GitHub/ChaosPhysicsBugTest/Content/DebugPhysicsAsset/DebugPhysicsAsset_Skeleton.uasset",
+				"E:/GitHub/ChaosPhysicsBugTest/Content/DebugPhysicsAsset/Material.uasset",
+				"E:/GitHub/ChaosPhysicsBugTest/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset"
+			]
+		}
+	]
+}
